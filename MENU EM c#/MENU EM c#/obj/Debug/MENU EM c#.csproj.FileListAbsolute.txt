@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\bin\Debug\MENU EM c#.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\bin\Debug\MENU EM c#.exe
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\bin\Debug\MENU EM c#.pdb
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\obj\Debug\MENU EM c#.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\obj\Debug\MENU EM c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\obj\Debug\MENU EM c#.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\obj\Debug\MENU EM c#.exe
+C:\Users\pedro.hgaspar2\source\repos\Menu_C\MENU EM c#\MENU EM c#\obj\Debug\MENU EM c#.pdb
